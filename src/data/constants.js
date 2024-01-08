@@ -302,7 +302,7 @@ export const Bio = {
     //   tags: ["React Native", "JavaScript", "Axios"],
     //   category: "android app",
     //   github: "https://github.comr-App",
-    //   webapp: "https:ishavchanda/Job-finder-App",
+    //   webapp: "https:ishder-App",
     // },
     {
       id: 4,
@@ -328,7 +328,7 @@ export const Bio = {
       tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
       category: "web app",
       github: "https://github.eb-App",
-      webapp: "https://rishav-ry.app/",
+      webapp: "https://y.app/",
     },
     
     // {
@@ -341,8 +341,8 @@ export const Bio = {
     //     "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
     //   tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
     //   category: "android app",
-    //   github: "https://github.com/rishavchanda/Quiz-Earn",
-    //   webapp: "https://github.com/rishavchanda/Quiz-Earn",
+    //   github: "https://githQuiz-Earn",
+    //   webapp: "https://github.cz-Earn",
     // },
     {
       id: 8,
