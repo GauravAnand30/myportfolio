@@ -301,8 +301,8 @@ export const Bio = {
     //     "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
     //   tags: ["React Native", "JavaScript", "Axios"],
     //   category: "android app",
-    //   github: "https://github.com/rishavchanda/Job-finder-App",
-    //   webapp: "https://github.com/rishavchanda/Job-finder-App",
+    //   github: "https://github.comr-App",
+    //   webapp: "https:ishavchanda/Job-finder-App",
     // },
     {
       id: 4,
